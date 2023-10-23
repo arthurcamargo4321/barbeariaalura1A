@@ -15,11 +15,11 @@ h1 {
 p{
    text-align: center;
 }
+em strong {
+   text-align: center;
+}
 #missao {
     font-size: 20px;
-}
-em strong {
-    color:red
 }
 .itens{
     font-style: italic;
@@ -27,4 +27,19 @@ em strong {
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
+}
+em strong {
+    color: darkviolet;
+}
+h2 {
+text-align: center;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width:20%;
+margin:15%;
+}
+.imagembeneficios{
+    width:50%;
 }
